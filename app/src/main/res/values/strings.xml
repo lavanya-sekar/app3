@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">App3</string>
+    <string name="app_name">LOGO QUIZ</string>
+    <string name="ques_1">Enter the name of the company</string>
+    <string name="ques_2">Find out this social networking app</string>
+    <string name="ques_3">Guess this coffee shop</string>
+    <string name="a_1">Samsung</string>
+    <string name="a_2">Apple</string>
+    <string name="a_3">Moto</string>
+
 </resources>
